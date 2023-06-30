@@ -1,1 +1,1 @@
-an investigation into the moons effect on earthquakes
+an investigation into the moon's effect on earthquakes
