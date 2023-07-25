@@ -1,0 +1,10 @@
+
+How many months prior to the predicted? --> 2
+
+How many earthquakes in the time window prior to predicted? --> 3 or unlimited
+
+What is the distance cutoff for prior quakes to predicted? --> unlimited
+
+What magnitude for earthquakes prior to predicted? --> 7+
+
+What magnitude are we trying to predict? --> 6.5+
